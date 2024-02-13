@@ -1,7 +1,7 @@
-[![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)]
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
 <h1 align="center">Hi 👋, I'm Rohit Majumdar</h1>
 <h3 align="center">A passionate frontend developer, coder, an analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-majumdar&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-majumdar" /> </p>
 
